@@ -26,11 +26,17 @@ This project presents an Inventory and Supply Chain Performance Dashboard built 
 
 ## 🔍 Key Insights
 
-• A total of 50 orders were processed, with 3097 units ordered and 3026 units shipped, resulting in an order fulfillment rate of ~98%.
-• Dubai contributed the highest order value (49%), followed by Sharjah (26%) and Abu Dhabi (25%).
-• Mouse and Keyboard are among the most frequently ordered products in the dataset.
-• Warehouse A handled the highest shipment value (49%), indicating the largest operational load.
-• The Electronics category generated the highest inventory value, and the monthly trend shows a decline from January to February.
+### 🔍 Key Insights
+
+- A total of **50 orders** were processed, with **3097 units ordered** and **3026 units shipped**, resulting in an **order fulfillment rate of ~98%**.
+
+- **Dubai contributed the highest order value (49%)**, followed by **Sharjah (26%)** and **Abu Dhabi (25%)**.
+
+- **Mouse and Keyboard** are among the **most frequently ordered products** in the dataset.
+
+- **Warehouse A handled the highest shipment value (49%)**, indicating the largest operational load.
+
+- The **Electronics category generated the highest inventory value**, and the **monthly trend shows a decline from January to February**.
 
 
 
