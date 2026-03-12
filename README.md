@@ -43,6 +43,7 @@ This project helped me to create a dashboard to analyze inventory and supply cha
 
 ## 📷 Dashboard Preview
 
+
 ![Sales Dashboard](Inventory_Dashboard_Project.png)
 
 
