@@ -33,6 +33,8 @@ This project presents an Inventory and Supply Chain Performance Dashboard built 
 • The Electronics category generated the highest inventory value, and the monthly trend shows a decline from January to February.
 
 
+
+
 This project helped me to create a dashboard to analyze inventory and supply chain data, track orders and shipments, and visualize key business insights for better decision-making.
 
 ## 📷 Dashboard Preview
