@@ -26,9 +26,7 @@ This project presents an Inventory and Supply Chain Performance Dashboard built 
 
 ## 🔍 Key Insights
 
-### 🔍 Key Insights
-
-- A total of **50 orders** were processed, with **3097 units ordered** and **3026 units shipped**, resulting in an **order fulfillment rate of ~98%**.
+- A total of 50 orders were processed, with **3097 units ordered** and **3026 units shipped**, resulting in an **order fulfillment rate of ~98%**.
 
 - **Dubai contributed the highest order value (49%)**, followed by **Sharjah (26%)** and **Abu Dhabi (25%)**.
 
